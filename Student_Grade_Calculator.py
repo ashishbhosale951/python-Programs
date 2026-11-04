@@ -4,7 +4,7 @@ m1 = float(input("Enter marks in Subject 1: "))
 m2 = float(input("Enter marks in Subject 2: "))
 m3 = float(input("Enter marks in Subject 3: "))
 
-total = m1 + m2 
+total = m1 + m2 + m3
 percentage = total / 3
 
 print("\nStudent Name:", name)
